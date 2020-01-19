@@ -23,6 +23,7 @@ More information and code snippets [here](https://fabiofranchino.com/blog/webpac
 You can clone this repo, work on it, create a new Github repository and change the remote URL to push on the new one, such as:
 
 ```shell
+git clone --depth=1 git@github.com:fabiofranchino/webpack-starterapp.git
 git remote set-url origin git@github.com:yourusername/your-new-repository.git
 ```
 
